@@ -1,0 +1,30 @@
+{
+    "channel_names": [
+        "H2B-tdTom"
+    ],
+    "model_path": "Y:\\data\\pecfin_dynamics\\built_data\\cellpose_training\\standard_models\\tdTom-bright-log-v5",
+    "n_channels": 1,
+    "n_time_points": 1,
+    "nuclear_channel": 0,
+    "prob_levels": {
+        "0": [
+            -9,
+            -6,
+            -3,
+            0,
+            3,
+            6,
+            9
+        ]
+    },
+    "voxel_size_um": [
+        1.5,
+        0.55,
+        0.55
+    ],
+    "zyx_shape": [
+        69,
+        970,
+        700
+    ]
+}
